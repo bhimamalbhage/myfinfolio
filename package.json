@@ -1,6 +1,5 @@
 {
   "name": "myfinfolio",
-  "homepage": "https://bhimamalbhage.github.io/myfinfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
